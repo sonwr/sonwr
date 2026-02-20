@@ -44,7 +44,12 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 - 🖼️ **[MossCoin_AI_NFT_Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — R&D on integrating generative AI with dynamic NFTs and token utility.
 - 🕶️ **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — Spatial computing and extended reality (XR) interfaces bridging the physical and digital Mossland ecosystems.
 
-> 🌳 *Everything above lives under **[MosslandOpenDevs](https://github.com/MosslandOpenDevs)***.
+**🧭 Personal OSS Labs (sonwr)**
+- 🛰️ **[ops-sentinel](https://github.com/sonwr/ops-sentinel)** — Operational intelligence toolkit for agent-native services with status grading and fast diagnostics.
+- 🧠 **[decision-swarm](https://github.com/sonwr/decision-swarm)** — Multi-agent decision support: statistical consensus, dissent mapping, and actionable recommendations.
+- 🔁 **[society-reverse-sim](https://github.com/sonwr/society-reverse-sim)** — Forward + inverse social simulation to explore outcomes and infer plausible origins.
+
+> 🌳 *Core ecosystem projects live under **[MosslandOpenDevs](https://github.com/MosslandOpenDevs)**, while selected experimental tooling is published under **[sonwr](https://github.com/sonwr)**.*
 
 ---
 
