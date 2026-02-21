@@ -44,6 +44,8 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 - 💸 **[open-sde](https://github.com/MosslandOpenDevs/open-sde)** — Software Defined Economy: agent-native, reality-anchored economic systems with constraints & accountability. *(MosslandOpenDevs)*
 - 🏢 **[open-sdb](https://github.com/MosslandOpenDevs/open-sdb)** — Software Defined Buildings: closing the loop across CAD/BIM/BEM → autonomous Physical AI control. *(MosslandOpenDevs)*
 - 🤖 **[MossCoinForMachine](https://github.com/MosslandOpenDevs/MossCoinForMachine)** — Machine-to-machine (M2M) economy protocols enabling autonomous agents and Physical AI to transact natively. *(MosslandOpenDevs)*
+- 🧠 **[MosslandAI](https://github.com/MosslandOpenDevs/MosslandAI)** — Agentic AI initiative for practical automation, intelligence tooling, and ecosystem-level AI workflows. *(MosslandOpenDevs)*
+- 🏛️ **[MossDAO](https://github.com/MosslandOpenDevs/MossDAO)** — DAO governance infrastructure and community coordination primitives for Mossland-aligned decision systems. *(MosslandOpenDevs)*
 - 🖼️ **[MossCoin_AI_NFT_Research](https://github.com/MosslandOpenDevs/MossCoin_AI_NFT_Research)** — R&D on integrating generative AI with dynamic NFTs and token utility. *(MosslandOpenDevs)*
 - 🕶️ **[MosslandXR](https://github.com/MosslandOpenDevs/MosslandXR)** — Spatial computing and extended reality (XR) interfaces bridging the physical and digital Mossland ecosystems. *(MosslandOpenDevs)*
 
