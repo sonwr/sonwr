@@ -28,6 +28,7 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 - 🏛️ **[Algora](https://github.com/MosslandOpenDevs/Algora)** — Multi-agent swarm intelligence for DAO: debate + hybrid local/cloud routing + real-time logic visibility. *(MosslandOpenDevs)*
 - 🌉 **[bridge-2026](https://github.com/MosslandOpenDevs/bridge-2026)** — Physical AI governance OS: reality signals → proposals → consensus → human decision → on-chain proof. *(MosslandOpenDevs)*
 - 🗂️ **[mossland-nexus](https://github.com/MosslandOpenDevs/mossland-nexus)** — AI governance assistant grounded in internal docs + official disclosures. *(MosslandOpenDevs)*
+- 🛡️ **[agent-reliability-kit](https://github.com/MosslandOpenDevs/agent-reliability-kit)** — Reliability layer for AI agent runtimes: sanitization, incident classification, policy-driven recovery, and automation-friendly reports. *(MosslandOpenDevs)*
 
 **🕸️ Narrative, Simulation & Decision Systems**
 - 📖 **[StoryVerse](https://github.com/MosslandOpenDevs/StoryVerse)** — An agentic story universe mapped as a 3D knowledge graph (history × cinema × literature). *(MosslandOpenDevs)*
