@@ -38,6 +38,7 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 
 **🎮 Market & Behavior Experiments**
 - 📈 **[mossland-promptfolio](https://github.com/MosslandOpenDevs/mossland-promptfolio)** — Prompt-driven paper trading league: build agent personas, run seasons, replay decisions. *(MosslandOpenDevs)*
+- 🧩 **[mossland-pixelops](https://github.com/MosslandOpenDevs/mossland-pixelops)** — Pixel-level growth and gameplay operations toolkit for fast campaign iteration and performance optimization. *(MosslandOpenDevs)*
 - 🧘‍♂️ **[zendog](https://github.com/MosslandOpenDevs/zendog)** — A Web3 lifestyle campaign app aimed at breaking phone addiction loops. *(MosslandOpenDevs)*
 - 🛰️ **[ops-sentinel](https://github.com/sonwr/ops-sentinel)** — Operational intelligence toolkit for agent-native services with status grading and fast diagnostics. *(personal)*
 
