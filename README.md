@@ -30,6 +30,7 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 - 🗂️ **[mossland-nexus](https://github.com/MosslandOpenDevs/mossland-nexus)** — AI governance assistant grounded in internal docs + official disclosures. *(MosslandOpenDevs)*
 - 🛡️ **[agent-reliability-kit](https://github.com/MosslandOpenDevs/agent-reliability-kit)** — Reliability layer for AI agent runtimes: sanitization, incident classification, policy-driven recovery, and automation-friendly reports. *(MosslandOpenDevs)*
 - 📉 **[prompt-regression-min](https://github.com/sonwr/prompt-regression-min)** — Minimal regression checker for prompt/workflow changes in LLM apps with JSONL datasets and CI-friendly pass/regression reporting. *(personal)*
+- 🧭 **[openclaw-codex-pm-skills](https://github.com/sonwr/openclaw-codex-pm-skills)** — Community adaptation of PM skill frameworks (inspired by `phuryn/pm-skills`) for portable OpenClaw + Codex-style workflows. *(personal)*
 
 **🕸️ Narrative, Simulation & Decision Systems**
 - 📖 **[StoryVerse](https://github.com/MosslandOpenDevs/StoryVerse)** — An agentic story universe mapped as a 3D knowledge graph (history × cinema × literature). *(MosslandOpenDevs)*
