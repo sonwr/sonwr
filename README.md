@@ -38,6 +38,7 @@ If you’re into **multi-agent orchestration**, **governance that compiles**, **
 **🕸️ Narrative, Simulation & Decision Systems**
 - 📖 **[StoryVerse](https://github.com/MosslandOpenDevs/StoryVerse)** — An agentic story universe mapped as a 3D knowledge graph (history × cinema × literature). *(MosslandOpenDevs)*
 - 🕳️ **[null](https://github.com/MosslandOpenDevs/null)** — **100% agents / 0% humans**: a framework for generating & observing high-density synthetic discourse. *(MosslandOpenDevs)*
+- 📡 **[signalmap](https://github.com/MosslandOpenDevs/signalmap)** [![live](https://img.shields.io/badge/live-signalmap.moss.land-FF7A45?style=flat-square)](https://signalmap.moss.land) — Daily-curated YouTubers' latest signals → Grok summary + topic embeddings → a force-directed map of today's discourse landscape. *(MosslandOpenDevs)*
 - 🧠 **[decision-swarm](https://github.com/sonwr/decision-swarm)** — Multi-agent decision support: statistical consensus, dissent mapping, and actionable recommendations. *(personal)*
 - 🔁 **[society-reverse-sim](https://github.com/sonwr/society-reverse-sim)** — Forward + inverse social simulation to explore outcomes and infer plausible origins. *(personal)*
 
